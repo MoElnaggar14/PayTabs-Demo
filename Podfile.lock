@@ -16,7 +16,7 @@ PODS:
     - AFNetworking/NSURLSession
   - BIObjCHelpers (0.4.3)
   - DGActivityIndicatorView (2.1.1)
-  - IQKeyboardManager (6.0.3)
+  - IQKeyboardManager (6.3.0)
   - Lockbox (3.0.6)
   - Mantle (2.1.0):
     - Mantle/extobjc (= 2.1.0)
@@ -24,9 +24,9 @@ PODS:
   - PINCache (2.3)
   - Reachability (3.2)
   - SBJson (5.0.0)
-  - SDWebImage (4.3.3):
-    - SDWebImage/Core (= 4.3.3)
-  - SDWebImage/Core (4.3.3)
+  - SDWebImage (5.0.2):
+    - SDWebImage/Core (= 5.0.2)
+  - SDWebImage/Core (5.0.2)
   - YLGIFImage (0.11)
 
 DEPENDENCIES:
@@ -60,13 +60,13 @@ SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   BIObjCHelpers: 378672b0f9309e4d2cbd4cabfb3afbe1ce225e40
   DGActivityIndicatorView: ff2c76073d79692f724863c8dd38685866a03cb6
-  IQKeyboardManager: c390e612f4b98c8fd748016470138537dc163ead
+  IQKeyboardManager: 2ca9d64893247556f53523dcd8d78641f0ba7c23
   Lockbox: 4291a0b8b1aed35474881c4e592961dec3ca695e
   Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
   PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   SBJson: 73c848dc34be51fda282fab12bda6c426f5ead08
-  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SDWebImage: 6764b5fa0f73c203728052955dbefa2bf1f33282
   YLGIFImage: c0ae132fe80e5282b2762a97d14e23ba71a748ae
 
 PODFILE CHECKSUM: 6b2f9c7db78065a6861ade05afef9eac5a2ca9f0
