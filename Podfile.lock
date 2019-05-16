@@ -42,6 +42,20 @@ DEPENDENCIES:
   - SDWebImage
   - YLGIFImage
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - BIObjCHelpers
+    - DGActivityIndicatorView
+    - IQKeyboardManager
+    - Lockbox
+    - Mantle
+    - PINCache
+    - Reachability
+    - SBJson
+    - SDWebImage
+    - YLGIFImage
+
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   BIObjCHelpers: 378672b0f9309e4d2cbd4cabfb3afbe1ce225e40
@@ -57,4 +71,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: ac5889c293e58eeb03d7c2352365944b27446fec
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.6.1
